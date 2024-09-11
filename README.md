@@ -158,6 +158,4 @@ Image.fromarray(thresh)
 - **Difference Image**: The difference image showing pixel-wise differences is displayed.
 - **Threshold Image**: The threshold image highlighting significant differences is displayed.
 
-This documentation provides a comprehensive guide to comparing images using SSIM and visualizing the differences effectively.
 
-**Author: Nihar Raju**
