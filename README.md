@@ -1,5 +1,3 @@
-Certainly! Below is the detailed documentation with the author's name included.
-
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Libraries](#libraries)
